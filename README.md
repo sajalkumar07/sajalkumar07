@@ -1,4 +1,3 @@
-![logo](https://github.com/sajalkumar07/sajalkumar07/blob/main/yo.jpg?raw=true)
 
 <h1 align="center">Hey 👋, I'm Sajal</h1>
 <h3 align="center">A caffeinated CSE guy</h3>
