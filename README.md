@@ -23,7 +23,7 @@
 
 <h2 align="left">📊Github Stats:</h2>
 
-[sajalkumar07's Stats](https://github-readme-stats.vercel.app/api?username=sajalkumar07&theme=dark&show_icons=true&hide_border=true&count_private=true)br/>
-![sajalkumar07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajalkumar07&theme=dark&hide_border=true)<br/>
+[sajalkumar07's Stats](https://github-readme-stats.vercel.app/api?username=sajalkumar07&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/>
+![sajalkumar07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajalkumar07&theme=dark&hide_border=true)
 
 
