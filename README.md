@@ -23,7 +23,8 @@
 
 <h2 align="left">📊Github Stats:</h2>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sajalkumar07&show_icons=true&theme=dark#gh-dark-mode-only_color=00000000_hide_border)<br/>
-[![Streak](https://streak-stats.demolab.com/?user=sajalkumar07&theme=dark#gh-dark-mode-only_color=00000000)](https://git.io/streak-stats)<br/>
+[![](https://streak-stats.demolab.com/?user=sajalkumar07&theme=dark#gh-dark-mode-only_color=00000000)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sajalkumar07&show_icons=true&theme=dark#gh-dark-mode-only_color=00000000_hide_border)<br/>
+
 
 
