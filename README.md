@@ -23,9 +23,8 @@
 
 <h2 align="left">📊Github Stats:</h2>
 
-![sajalkumar07's github stats](https://github-readme-stats.vercel.app/api?username=sajalkumar07&show_icons=true&theme=dark#gh-dark-mode-only_color=00000000_hide_border=false)<br/>
+![sajalkumar07's github stats](https://github-readme-stats.vercel.app/api?username=sajalkumar07&show_icons=true&theme=dark#gh-dark-mode-only_color=00000000_hide_border)<br/>
 ![sajalkumar07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajalkumar07&theme=dark&hide_border=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajalkumar07&layout=donut&theme=dark#gh-dark-mode-only_color=00000000_hide_border=false
-)](https://github.com/sajalkumar07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajalkumar07&layout=donut&theme=dark#gh-dark-mode-only_color=00000000_hide_border)](https://github.com/sajalkumar07/github-readme-stats)
 
 
