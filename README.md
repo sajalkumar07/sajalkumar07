@@ -3,7 +3,7 @@
 <h3 align="center">A caffeinated CSE guy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajalkumar00&label=Profile%20views&color=0e75b6&style=flat" alt="sajalkumar00" /> </p>
-<img align="right" alt="wait it will come" width="400" src="https://github.com/sajalkumar07/sajalkumar07/blob/main/WElCOME.gif?raw=true">
+<img align="right" alt="wait it will come" width="400" src="https://github.com/sajalkumar07/sajalkumar07/blob/main/Your paragraph text.mp4?raw=true">
 
 - 📫 How to reach me **sajalkumarr030@gmail.com**
 - ⚡ Fun fact **I have a great sense of humor**
