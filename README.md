@@ -1,4 +1,4 @@
-t
+
 <h1 align="center">Hey 👋, I'm Sajal</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajalkumar00&label=Profile%20views&color=0e75b6&style=flat" alt="sajalkumar00" align="center" /> </p>
