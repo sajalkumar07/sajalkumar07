@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sajalkumarr030@gmail.com**
 
-- fdgdgdfgfdgdfg gfdg fd g
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
