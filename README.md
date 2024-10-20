@@ -1,9 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm Sajal</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajalkumar00&label=Profile%20views&color=0e75b6&style=flat" alt="sajalkumar00" align="center" /> </p>
-<img align="right" alt="wait it will come" width="300" height="200" src="https://github.com/sajalkumar07/sajalkumar07/blob/main/newwel.gif?raw=true">
-
 - 📫 How to reach me **sajalkumarr030@gmail.com**
 
 <p align="left">
