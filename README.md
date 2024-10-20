@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey 👋, I'm Sajal</h1>
 
- <h2 align="left">sajalkumarr030@gmail.com</h2>
+sajalkumarr030@gmail.com
 
 
 # <h2 align="left"> 💻 Tech Stack</h2>
