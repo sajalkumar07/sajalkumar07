@@ -1,7 +1,8 @@
+<h2 align="center"> Hi guys 👋 I'm Sajal Kumar </h2>
 
-👋 Hi there, I am Sajal 
 
-📫  How to reach me: sajalkumarr030@gmail.com or +91 9829783781
+
+📫  How to reach me: sajalkumarr030@gmail.com   or +91 9829783781
 
 # <h2 align="left"> 💻 Tech Stack</h2>
 
