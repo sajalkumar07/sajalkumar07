@@ -1,7 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm Sajal</h1>
-<h1 align="center">⚡𝐀 𝐜𝐫𝐞𝐚𝐭𝐨𝐫 𝐰𝐡𝐨 𝐟𝐨𝐫𝐠𝐞 𝐜𝐨𝐝𝐞 </h1>
-sajalkumarr030@gmail.com
+<h1 align="center">sajalkumarr030@gmail.com
 
 <p align="left">
 </p>
