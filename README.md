@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm Sajal</h1>
-<h1 align="center">sajalkumarr030@gmail.com
+
 
 <p align="left">
 </p>
