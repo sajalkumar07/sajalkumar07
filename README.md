@@ -1,5 +1,5 @@
 <h2 align="center"> Hi guys 👋 I'm Sajal Kumar </h2>
-Resume:https://drive.google.com/file/d/16yeF-HtlgStpQyxeYM6DGLCTs8lOtgjI/view
+
 
 
 
