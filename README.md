@@ -5,7 +5,6 @@
 
 📫  How to reach me: sajalkumarr030@gmail.com  or +91 9829783781
 
-📄 Resume [https://drive.google.com/file/d/16yeF-HtlgStpQyxeYM6DGLCTs8lOtgjI/view](https://drive.google.com/file/d/16yeF-HtlgStpQyxeYM6DGLCTs8lOtgjI/view)
 
 
 # <h2 align="left"> 🌐 Socials</h2>
