@@ -5,6 +5,11 @@
 
 📫  How to reach me: sajalkumarr030@gmail.com  or +91 9829783781
 
+<div align="center">
+  <a href="./Sajal_Kumar_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</div>
 
 
 # <h2 align="left"> 🌐 Socials</h2>
