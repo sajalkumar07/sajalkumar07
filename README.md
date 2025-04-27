@@ -6,7 +6,7 @@
 📫  How to reach me: sajalkumarr030@gmail.com  or +91 9829783781
 
 <div align="">
-  <a href="https://drive.google.com/file/d/1WxphXdRQijPhLIXK0cyxZUGN02qhpVP4/view">
+  <a href="https://drive.google.com/file/d/1iAet2GlU25WiA00Fx1F7cKD28jLCyW0o/view?usp=sharing">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </div>
